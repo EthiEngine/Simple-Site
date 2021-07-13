@@ -1,0 +1,68 @@
+span {
+    font-family: bold;
+}
+.Banner{
+  background-color: aqua;
+  margin: 2px;
+  text-align: center;
+  padding: 2px;
+  border: 5px;
+}
+h1{
+    font-size: 45px;
+}
+.Banner2{
+    background-color: green;
+    margin: 2px;
+    text-align: center;
+    padding: 2px;
+    border: 5px;
+
+}
+.Banner3{
+    background-color: purple;
+    margin: 2px;
+    text-align: center;
+    padding: 2px;
+    border: 5px;
+}
+.Banner4{
+    background-color: red;
+    margin: 2px;
+    text-align: center;
+    padding: 2px;
+    border: 2px;
+
+}
+img {
+    
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+p{
+    font-family: bold;
+    text-align: start;
+    color: black;
+}
+.Bottom{
+    text-align: center;
+    color: black;
+    
+}
+.Entertext{
+    text-align: center;
+    font-family:Bold;
+}
+.credits{
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+a{
+    font-size: larger;
+}
+.Question{
+    font-size: larger;
+}
